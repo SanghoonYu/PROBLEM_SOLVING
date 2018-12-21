@@ -1,2 +1,3 @@
 *.exe
 BOJ/input.txt
+.vscode/settings.json
